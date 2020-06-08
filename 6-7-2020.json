@@ -1,0 +1,23 @@
+[
+  {
+    "Pool Table Number": 1,
+    "Start Time": "6-7-2020 8:48 PM",
+    "End Time": "6-7-2020 8:50 PM",
+    "Total Time Played": "0 hrs : 2 min",
+    "Cost": "$1.00"
+  },
+  {
+    "Pool Table Number": 2,
+    "Start Time": "6-7-2020 8:48 PM",
+    "End Time": "6-7-2020 8:50 PM",
+    "Total Time Played": "0 hrs : 2 min",
+    "Cost": "$1.00"
+  },
+  {
+    "Pool Table Number": 3,
+    "Start Time": "6-7-2020 8:48 PM",
+    "End Time": "6-7-2020 8:50 PM",
+    "Total Time Played": "0 hrs : 1 min",
+    "Cost": "$0.50"
+  }
+]
