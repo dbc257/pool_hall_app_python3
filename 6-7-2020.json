@@ -1,23 +1,86 @@
 [
   {
-    "Pool Table Number": 1,
-    "Start Time": "6-7-2020 8:48 PM",
-    "End Time": "6-7-2020 8:50 PM",
-    "Total Time Played": "0 hrs : 2 min",
-    "Cost": "$1.00"
+    "Pool Table Number": 12,
+    "Start Time": "6-7-2020 8:57 PM",
+    "End Time": "6-7-2020 9:09 PM",
+    "Total Time Played": "0 hrs : 12 min",
+    "Cost": "$6.00"
   },
   {
-    "Pool Table Number": 2,
-    "Start Time": "6-7-2020 8:48 PM",
-    "End Time": "6-7-2020 8:50 PM",
-    "Total Time Played": "0 hrs : 2 min",
-    "Cost": "$1.00"
+    "Pool Table Number": 11,
+    "Start Time": "6-7-2020 8:57 PM",
+    "End Time": "6-7-2020 9:09 PM",
+    "Total Time Played": "0 hrs : 12 min",
+    "Cost": "$6.00"
+  },
+  {
+    "Pool Table Number": 10,
+    "Start Time": "6-7-2020 8:57 PM",
+    "End Time": "6-7-2020 9:09 PM",
+    "Total Time Played": "0 hrs : 12 min",
+    "Cost": "$6.00"
+  },
+  {
+    "Pool Table Number": 9,
+    "Start Time": "6-7-2020 8:57 PM",
+    "End Time": "6-7-2020 9:09 PM",
+    "Total Time Played": "0 hrs : 13 min",
+    "Cost": "$6.50"
+  },
+  {
+    "Pool Table Number": 8,
+    "Start Time": "6-7-2020 8:57 PM",
+    "End Time": "6-7-2020 9:10 PM",
+    "Total Time Played": "0 hrs : 13 min",
+    "Cost": "$6.50"
+  },
+  {
+    "Pool Table Number": 7,
+    "Start Time": "6-7-2020 8:57 PM",
+    "End Time": "6-7-2020 9:10 PM",
+    "Total Time Played": "0 hrs : 13 min",
+    "Cost": "$6.50"
+  },
+  {
+    "Pool Table Number": 6,
+    "Start Time": "6-7-2020 8:57 PM",
+    "End Time": "6-7-2020 9:28 PM",
+    "Total Time Played": "1 hrs : 31 min",
+    "Cost": "$45.50"
+  },
+  {
+    "Pool Table Number": 5,
+    "Start Time": "6-7-2020 8:57 PM",
+    "End Time": "6-7-2020 9:28 PM",
+    "Total Time Played": "1 hrs : 31 min",
+    "Cost": "$45.50"
+  },
+  {
+    "Pool Table Number": 4,
+    "Start Time": "6-7-2020 8:57 PM",
+    "End Time": "6-7-2020 9:28 PM",
+    "Total Time Played": "1 hrs : 31 min",
+    "Cost": "$45.50"
   },
   {
     "Pool Table Number": 3,
-    "Start Time": "6-7-2020 8:48 PM",
-    "End Time": "6-7-2020 8:50 PM",
-    "Total Time Played": "0 hrs : 1 min",
-    "Cost": "$0.50"
+    "Start Time": "6-7-2020 8:57 PM",
+    "End Time": "6-7-2020 9:28 PM",
+    "Total Time Played": "1 hrs : 31 min",
+    "Cost": "$45.50"
+  },
+  {
+    "Pool Table Number": 2,
+    "Start Time": "6-7-2020 8:57 PM",
+    "End Time": "6-7-2020 9:28 PM",
+    "Total Time Played": "1 hrs : 31 min",
+    "Cost": "$45.50"
+  },
+  {
+    "Pool Table Number": 1,
+    "Start Time": "6-7-2020 8:57 PM",
+    "End Time": "6-7-2020 9:28 PM",
+    "Total Time Played": "1 hrs : 31 min",
+    "Cost": "$45.50"
   }
 ]
