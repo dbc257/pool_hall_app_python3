@@ -17,7 +17,7 @@ Pool Hall App is a Python 3 application that allows the user to manage and track
 
 ## Screenshots
 
-<img width="1425" alt="Terminal" src="https://user-images.githubusercontent.com/62611599/89866297-e8fff800-db74-11ea-9daa-1ce4e23982a9.png">
+<!-- <img width="1425" alt="Terminal" src="https://user-images.githubusercontent.com/62611599/89866297-e8fff800-db74-11ea-9daa-1ce4e23982a9.png"> -->
 
 <img width="1425" alt="Terminal" src="https://user-images.githubusercontent.com/62611599/89865330-24012c00-db73-11ea-84c9-cfa83823dfb0.png">
 
